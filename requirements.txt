@@ -1,4 +1,4 @@
-aioredis==1.2.0
+aioredis==1.2.1
 asgiref==3.2.0
 asn1crypto==0.24.0
 async-timeout==3.0.1
